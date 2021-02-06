@@ -4,17 +4,34 @@ web page
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>تمرین</title>
+  <title>Train</title>
+
+  <link rel="stylesheet" href="Style.css" >
 </head>
-<body id="top">
+salam bar hame<br>chetorid
+<body>
+<p>hello</p>
+<h1 class="head"> hi </h1>
+<h2>che khabar</h2>
+<i>bale</i><br>
+<b>mage na?</b>
+
+<ol>
+  <li>
+    item1
+  </li><li>
+  item1
+</li><li>
+  item1
+</li><li>
+  item1
+</li><li>
+  item1
+</li>
+
+</ol>
 
 
-
-<a href="https://www.anime-list9.site/anime/4714">
-  link
-
-</a>
-
-
+</dl>
 </body>
 </html>
